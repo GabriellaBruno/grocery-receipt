@@ -1,2 +1,2 @@
 # grocery-receipt
-displays a receipt based on data entered (groceries, price, quantity)
+User is prompted to enter groceries, price, and quantity. A receipt is displayed using this information.
