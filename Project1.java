@@ -99,7 +99,7 @@ public class Project1 {
 }
 
 /*
- * Console output:
+ * example console output:
  * 
  Welcome to checkout.
 Answer the questions accurately.
